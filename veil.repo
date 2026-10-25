@@ -1,0 +1,7 @@
+[veil]
+name=veil
+baseurl=https://aofusa.github.io/veil-packages/rpm
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://aofusa.github.io/veil-packages/veil.asc

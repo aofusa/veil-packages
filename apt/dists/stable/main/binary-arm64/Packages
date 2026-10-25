@@ -1,0 +1,42 @@
+Package: veil
+Architecture: arm64
+Version: 0.9.1
+Priority: optional
+Section: httpd
+Maintainer: aofusa <aofusa@users.noreply.github.com>
+Installed-Size: 19872
+Depends: libc6 (>= 2.28), adduser | passwd
+Filename: pool/main/v/veil/veil_0.9.1_arm64.deb
+Size: 6117980
+MD5sum: 67c9af7bf7f1186e823484fc4e308cbf
+SHA1: d29b98847c79c6c086c69509c5d227b41c55fafe
+SHA256: b709a4e7efb60068fbdb3abd9615e9b651f1569dc63f71e2e42ca08b5c88cb31
+SHA512: 56d10c4017aca39b2a807bc74b95a3f5554360855fe26f6d17ce6366e2adb1608aaa9eb82fef96bc54686982be867e461bac8ec7c0bf04c528fa34c8bca4e3cb
+Homepage: https://github.com/aofusa/veil-proxy
+Description: High-performance reverse proxy and web server
+ Veil is a reverse proxy and web server for HTTP/1.1, HTTP/2 and HTTP/3
+ with kTLS, io_uring, Proxy-Wasm filters, and seccomp / Landlock
+ sandboxing. The package installs a default configuration that serves a
+ page on http://127.0.0.1:8080/ and starts the veil service.
+
+Package: veil
+Architecture: arm64
+Version: 0.9.2
+Priority: optional
+Section: httpd
+Maintainer: aofusa <aofusa@users.noreply.github.com>
+Installed-Size: 19872
+Depends: libc6 (>= 2.28), adduser | passwd
+Filename: pool/main/v/veil/veil_0.9.2_arm64.deb
+Size: 6115036
+MD5sum: 8366ecec1f96d0815af9f36b8783cac8
+SHA1: e894cf43d36e878b9330d4f92abb43c44304cbf7
+SHA256: 72b5d86c2dfa334f62c81a0194f4c70bdf8cff6de64893e7df58b05a4e2dfd66
+SHA512: ffc46a978770f6dec9c52f7898a11683d8460178431a61baf513e487b616fcce1d6be3ed23c83b6607fee8d007c990170251b974cc09ea11595d396262f707e4
+Homepage: https://github.com/aofusa/veil-proxy
+Description: High-performance reverse proxy and web server
+ Veil is a reverse proxy and web server for HTTP/1.1, HTTP/2 and HTTP/3
+ with kTLS, io_uring, Proxy-Wasm filters, and seccomp / Landlock
+ sandboxing. The package installs a default configuration that serves a
+ page on http://127.0.0.1:8080/ and starts the veil service.
+

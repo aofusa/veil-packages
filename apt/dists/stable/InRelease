@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sun, 25 Oct 2026 14:20:00 +0000
+Description: veil packages
+Label: veil
+Origin: veil
+Suite: stable
+MD5Sum:
+ 28fdc10ab36979cd250a3cd62ba773b0             2383 Release
+ 7b811d2e4fd1bf11176501ebff1d3d4c             1876 main/binary-amd64/Packages
+ 2a0beb88be4e5b23c8c7f0f8a85f43be              834 main/binary-amd64/Packages.gz
+ 34ef5bf1eda56f04ab5d468f3be34a1d             1876 main/binary-arm64/Packages
+ d19019da2175933a004f20486e2a77c3              836 main/binary-arm64/Packages.gz
+SHA1:
+ 9fa8892a73744189a104d46e2c3be9c44598d646             2383 Release
+ 35797400c92e9a9e92bb9f904208d7d3ecb14733             1876 main/binary-amd64/Packages
+ 12a42d6c01ed687d1acdb8dc8d1e86b334a3e6fe              834 main/binary-amd64/Packages.gz
+ a8c111e8cac5ddc3b031ebb8acaffad1eff37f2d             1876 main/binary-arm64/Packages
+ 9788180a4f6826995d8230a2b65d3fbf281b3956              836 main/binary-arm64/Packages.gz
+SHA256:
+ 0ec2b3bb4eb343cba8849079ad43ac40a312784864395d926d598e82adc69954             2383 Release
+ e75698c8c3e98b438a6e0155aa1f7177640ab8f80d4c4b43c4f491438eebb013             1876 main/binary-amd64/Packages
+ a6d49ebd3f3ab0fd843bfdf1982dcb093d05983739052ce62ad2c4648cf7e64b              834 main/binary-amd64/Packages.gz
+ a3c6c0fc3d3d3719b6838191f3c5d18b3c3f9009583cf6aec59d408210cc2c7e             1876 main/binary-arm64/Packages
+ a094be4b8c8852ae2f86642322f57a5bc464de1a0a7a9f5be67d7dd6b2ebc54c              836 main/binary-arm64/Packages.gz
+SHA512:
+ dd0475f67583dd9fe2183617185216baf2bc21013d76528a9f79d30ca8bb527b20ecf4ca112bbc48d4f5412411c800bcc454ed1480df6f00abd7086ea930da2b             2383 Release
+ e3f0043aeda69fc43f9c97e0212737da8f7cfa8b699a654012a6e5e772c739d43f42c7700a134c8fbaed28cee9db9d1e4e8653eeeaca9337d142e573ffd2f831             1876 main/binary-amd64/Packages
+ 17fd86dbe7e512188d9532d35137d9535cbe6ed44b274e9b8d7ca129eb65d50ae7ba2af4584982b630a452ce0d0f5fdd8e805d8ad4bb36777e7af22c9fe3af52              834 main/binary-amd64/Packages.gz
+ 23de5d646cb6fb4a4ac98dfd581ed91c467b32ab0a8bb414e2eeb4dcc3f5916ac32b1af185476101e197cf7177476e859c412debc5619956ec45b021038de4fb             1876 main/binary-arm64/Packages
+ a1fa982f3136fa19775a1f3417c3760bf623668254f6914bfdff0770bbb260db5a3091906411f08ce2d3ad98251236821394e4e7f8eb4d701d87f94d7792358d              836 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQBnJMyc0QpBW16yX4fvUFnH4pwOwUCat4QEAAKCRAfvUFnH4pw
+Oy6lAQCOlvxfoA6RHBoCqD8fE3umsAlzFpfHTPQlsERBjH2htAD+MK4jfsw4bu9B
+zKkVxeSkDpYSgR4PsHAgMev+Zut87w4=
+=wPiy
+-----END PGP SIGNATURE-----
