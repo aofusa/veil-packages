@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Fri, 06 Nov 2026 16:51:03 +0000
+Description: veil packages
+Label: veil
+Origin: veil
+Suite: stable
+MD5Sum:
+ f00f39fb9de3d4a1ad38c1eed9d2213d             2383 Release
+ ecbd03e583f72b556cb87083591db0e7             2820 main/binary-amd64/Packages
+ 8d868f95d7ae0fde78be28ed62afd1fd             1038 main/binary-amd64/Packages.gz
+ 31397b379ea0785f9d39dcf1f81e5dc1             2820 main/binary-arm64/Packages
+ 62962b66921d2cd93b571d57d06a1d4d             1043 main/binary-arm64/Packages.gz
+SHA1:
+ 773e1cdd1a12f9f1708c236f96422c083a1cb90e             2383 Release
+ c90640d2b1f0bde7b7db009c77225df22341aedb             2820 main/binary-amd64/Packages
+ 48e8cd20b7cb5afc4b9362ad075fe94fc5f5cc73             1038 main/binary-amd64/Packages.gz
+ fe3d001dab90a11079fb30fe2a128bc0b765a0ab             2820 main/binary-arm64/Packages
+ 846b8cbe50bbb17824153af3d9a5b0537ccfd615             1043 main/binary-arm64/Packages.gz
+SHA256:
+ f58e85340ab0c5469545a6983a920dfaad6a8cf0db2954a93b0c0e293d496183             2383 Release
+ d39a361ab55e9b0227a6e9903d031319950975637d103c6121b18b4dd150e8df             2820 main/binary-amd64/Packages
+ 1b07efc5bf69bca74243781bf00601ca7dfc84390225db569586b52f7630d0c0             1038 main/binary-amd64/Packages.gz
+ df36ea0609d51f7696ad805330b57e5ce7660eb7d42482e103ff88d89001bc75             2820 main/binary-arm64/Packages
+ 973d899ff0aff64aade8013fb9932d1141206156d55f2372b0041c03e5221842             1043 main/binary-arm64/Packages.gz
+SHA512:
+ cac5e3026dca7ddc2c01375112a2f4bc44c3be4e0a05adc6c54dca848db962b712a077137848a72e5874787ffc6f0b297365bc8c542c998508df4d217487c12a             2383 Release
+ c4cf34b79281280d7250d761dc1a83038ffb3787eae70f210521b22e0db684f2827947d26e542709f67784a4fbfe6311c84434b1a6c057160657e96ca4cafb5d             2820 main/binary-amd64/Packages
+ 6b4ea1b5bf42e8af1afd3152e046bd129565dc6066129543c4423948485a49992188ae67784174bc898c55984a404796e93cc75ca51daefce2236f524194520c             1038 main/binary-amd64/Packages.gz
+ a462bc0e1a9a237514680fe2c2cbf23a45ebff341e8c3564af9abfeeec959fd8cad08e6c42376ff4b7d37497ab2670c6e4e1cbe18e939440f199a505a8627d91             2820 main/binary-arm64/Packages
+ cd382f369ac0bb678148dbaef72411d9eef6be40f72510254def9255b4d43e14d2acc633d75e0712e6380e024e6e0b0a4bb15fd57cd130627f28931f06f7f6a1             1043 main/binary-arm64/Packages.gz
